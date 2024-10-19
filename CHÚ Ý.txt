@@ -1,0 +1,2 @@
+Mở file D:\xampp\php\php.ini và sửa:
+;extension=gd THÀNH extension=gd
